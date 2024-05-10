@@ -1,5 +1,5 @@
 ### Welcome to my *Data Science*  _(Hyperion Dev)_ Portfolio"
-![Picture of Nottingham Council House] (https://www.topuniversities.com/sites/default/files/styles/articles_inline/public/articles/lead-images/nottingham_1.jpg.webp)
+
 
 ## Information about myself
 - 🔭 I’m currently working on ... *learning the basics of Data Science with HyperionDev*
