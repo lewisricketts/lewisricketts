@@ -1,4 +1,4 @@
-### Welcome to my *Data Science*  _(Hyperion Dev)_ Portfolio"
+### Welcome to my *Data Science*  _(Hyperion Dev)_ Portfolio
 
 
 ## Information about myself
